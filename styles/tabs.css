@@ -11,9 +11,7 @@
 }
 
 .tabs input[type="radio"] {
-    position: absolute;
-    top: 0;
-    left: -9999px;
+    display:none;
 }
 
 .tabs label {
